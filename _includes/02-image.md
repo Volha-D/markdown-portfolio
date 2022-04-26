@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [tree in bloom] (https://www.gardenia.net/storage/app/public/guides/detail/d4SkwGNHylZqTRSv4tUXPdmVE66kTwGdsPU5HtLX.jpeg)
